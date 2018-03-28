@@ -19,6 +19,8 @@
  
     Git has a mutable index called stage.
 
+    Git tracks changes.
+
 int main() {
 	return 0;
 }
