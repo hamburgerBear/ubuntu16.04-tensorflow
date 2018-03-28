@@ -14,12 +14,13 @@
 	git resert --hard HEAD^
  	git resert --hard ******
  	git reflog
+	git diff HEAD --readme.txt
 
     Git is free software distributed under GPL	
  
     Git has a mutable index called stage.
 
-    Git tracks changes.
+    Git tracks changes of files.
 
 int main() {
 	return 0;
