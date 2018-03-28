@@ -7,6 +7,8 @@
 
     Git COMMAND: git diff readme.txt
 
+    Git is free software distributed under GPL	
+
 int main() {
 	return 0;
 }
