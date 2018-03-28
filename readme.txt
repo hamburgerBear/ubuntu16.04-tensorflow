@@ -14,7 +14,10 @@
 	git resert --hard HEAD^
  	git resert --hard ******
  	git reflog
-	git diff HEAD --readme.txt
+	git diff HEAD -- readme.txt
+	git cheakout -- readme.txt    //reset worker
+	git reset HEAD -- readme.txt  //reset buffer
+   	if want to reset file of commited you can: git reset --hard HEAD^
 
     Git is free software distributed under GPL	
  
