@@ -16,6 +16,8 @@
  	git reflog
 
     Git is free software distributed under GPL	
+ 
+    Git has a mutable index called stage.
 
 int main() {
 	return 0;
