@@ -20,6 +20,10 @@
    	if want to reset file of commited you can: git reset --hard HEAD^
 	git rm ***
 	ssh-keygen -t rsa -C "gaojie@smile.com"
+	git remote add origin  https://github.com/hamburgerBear/ubuntu16.04-tensorflow.git
+	git push -u origin master
+	git push origin master
+	
 
     Git is free software distributed under GPL	
  
