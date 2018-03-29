@@ -23,6 +23,7 @@
 	git remote add origin  https://github.com/hamburgerBear/ubuntu16.04-tensorflow.git
 	git push -u origin master
 	git push origin master
+	git clone https://github.com/hamburgerBear/ubuntu16.04-tensorflow.git
 	
 
     Git is free software distributed under GPL	
