@@ -18,6 +18,8 @@
 	git cheakout -- readme.txt    //reset worker
 	git reset HEAD -- readme.txt  //reset buffer
    	if want to reset file of commited you can: git reset --hard HEAD^
+	git rm ***
+	ssh-keygen -t rsa -C "gaojie@smile.com"
 
     Git is free software distributed under GPL	
  
