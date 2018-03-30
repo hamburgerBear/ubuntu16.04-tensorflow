@@ -25,7 +25,12 @@
 	git push origin master
 	git clone https://github.com/hamburgerBear/ubuntu16.04-tensorflow.git
 	...
-	
+	git branch                veiw branch
+	git branch <name>         create branch
+	git checkout <name>       switch branch
+	git checkout -b <name>    create and switch branch
+	git merge <name>          merge branch to current branch
+	git branch -d <name>      delete branch
 
     Git is free software distributed under GPL	
  
